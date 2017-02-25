@@ -25,7 +25,7 @@ SECRET_KEY = 'pcpfli7_wohv-el%t844t^piks!#pc2s0493tp*l*==-4t(bda'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['csddochi.pythonanywhere.com']
 
 
 # Application definition
